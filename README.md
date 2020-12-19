@@ -20,3 +20,9 @@
 ### hive
 
 ### hbase
+
+## 云原生数仓
+
+### snowflake
+
+ - [Snowflake: The Good, The Bad and The Ugly](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/)
