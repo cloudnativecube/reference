@@ -1,6 +1,10 @@
 # reference
 
 参考资料
+## 编程语言
+
+### C++
+- [C++11新特性](http://c.biancheng.net/cplus/11/)
 
 ## 操作系统
 
@@ -25,4 +29,5 @@
 
 ### snowflake
 
- - [Snowflake: The Good, The Bad and The Ugly](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/)
+- [Snowflake: The Good, The Bad and The Ugly](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/)
+- [snowflake-security](https://community.snowflake.com/s/snowflake-security)
