@@ -20,6 +20,7 @@
 ### spark
 
 - [SparkSQL Hive ThriftServer 源码解析：SparkSQLCLIService](https://mr-dai.github.io/sparksql_hive_thriftserver_source_2/)
+- [Spark CommitCoordinator 保证数据一致性](https://zhuanlan.zhihu.com/p/45351972)
 
 ### hive
 
