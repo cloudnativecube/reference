@@ -30,6 +30,8 @@
 ### clickhouse
 
 - [ClickHouse和他的朋友们](https://bohutang.me/archives/)
+- [ClickHouse
+Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Clickhouse%20query%20execution%20pipeline%20changes/)
 
 ## 云原生数仓
 
