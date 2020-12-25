@@ -34,6 +34,7 @@
 - [ClickHouse和他的朋友们](https://bohutang.me/archives/)
 - [ClickHouse
 Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Clickhouse%20query%20execution%20pipeline%20changes/)
+- [ClickHouse新特性Live View体验](https://blog.csdn.net/jiangshouzhuang/article/details/104981269)
 
 ## 云原生数仓
 
