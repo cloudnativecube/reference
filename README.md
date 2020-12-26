@@ -15,7 +15,8 @@
 
 ### 架构
 
-- [MPP的进化-深入理解Batch和MPP优缺点](https://mp.weixin.qq.com/s/scXNfkpjktCZxBg3pYEUUA)
+- [进击的巨人之MPP数据库](https://mp.weixin.qq.com/s/3hEXj3craLXyXycnPGWFEw)
+- [Shared Nothing v.s. Shared Disk Architectures: An Independent View](http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architecture/)
 
 ### hadoop
 
@@ -42,3 +43,4 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 
 - [Snowflake: The Good, The Bad and The Ugly](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/)
 - [snowflake-security](https://community.snowflake.com/s/snowflake-security)
+- [https://looker.com/databases/snowflake](https://looker.com/databases/snowflake)
