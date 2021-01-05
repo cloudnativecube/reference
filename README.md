@@ -17,6 +17,8 @@
 
 - [进击的巨人之MPP数据库](https://mp.weixin.qq.com/s/3hEXj3craLXyXycnPGWFEw)
 - [Shared Nothing v.s. Shared Disk Architectures: An Independent View](http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architecture/)
+- [OLAP 核心知识点](https://mp.weixin.qq.com/s/QUTuk7Oc9-YXxCwtbBSYoA)
+- [李飞飞：云原生分布式数据库面临哪些机遇与挑战？](https://mp.weixin.qq.com/s/zHBUEWCpPOgz3pvLAu32BQ)
 
 ### hadoop
 
