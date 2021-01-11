@@ -31,6 +31,8 @@
 
 ### hive
 
+- [HIVE ALTER TABLE](https://understandingbigdata.com/hive-alter-table/)
+
 ### hbase
 
 ### clickhouse
