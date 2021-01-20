@@ -34,6 +34,7 @@
 - [Spark CommitCoordinator 保证数据一致性](https://zhuanlan.zhihu.com/p/45351972)
 - [Data Source V2 API in Spark 3.0](http://blog.madhukaraphatak.com/categories/datasource-v2-spark-three/)
 - [一文理解 Apache Spark DataSource V2 诞生背景及入门实战](https://zhuanlan.zhihu.com/p/83006243)
+- [如何实现Spark on Kubernetes？](https://developer.aliyun.com/article/774585)
 
 ### hive
 
