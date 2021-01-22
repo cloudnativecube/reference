@@ -36,6 +36,7 @@
 - [Data Source V2 API in Spark 3.0](http://blog.madhukaraphatak.com/categories/datasource-v2-spark-three/)
 - [一文理解 Apache Spark DataSource V2 诞生背景及入门实战](https://zhuanlan.zhihu.com/p/83006243)
 - [如何实现Spark on Kubernetes？](https://developer.aliyun.com/article/774585)
+- [Spark内存管理详解](https://mp.weixin.qq.com/s/t4qO6HKOu3XaIgLGcTtLJw)
 
 ### hive
 
