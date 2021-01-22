@@ -37,6 +37,7 @@
 - [一文理解 Apache Spark DataSource V2 诞生背景及入门实战](https://zhuanlan.zhihu.com/p/83006243)
 - [如何实现Spark on Kubernetes？](https://developer.aliyun.com/article/774585)
 - [Spark内存管理详解](https://mp.weixin.qq.com/s/t4qO6HKOu3XaIgLGcTtLJw)
+- [京东Spark自研Remote Shuffle Service在大促中的应用实践](https://mp.weixin.qq.com/s/yELhZ1X-VG5YxR6ya32rAQ)
 
 ### hive
 
