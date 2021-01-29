@@ -31,6 +31,7 @@
 
 - [spark知识点总结](https://zhuanlan.zhihu.com/p/71270044)
 - [马殿军的源码分析](https://github.com/marsno1/notes/tree/master/Spark/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
+- [Spark源码阅读](https://masterwangzx.com/categories/#Spark)
 - [SparkSQL Hive ThriftServer 源码解析：SparkSQLCLIService](https://mr-dai.github.io/sparksql_hive_thriftserver_source_2/)
 - [Spark CommitCoordinator 保证数据一致性](https://zhuanlan.zhihu.com/p/45351972)
 - [Data Source V2 API in Spark 3.0](http://blog.madhukaraphatak.com/categories/datasource-v2-spark-three/)
@@ -62,3 +63,4 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [Snowflake: The Good, The Bad and The Ugly](https://0x0fff.com/snowflake-the-good-the-bad-and-the-ugly/)
 - [snowflake-security](https://community.snowflake.com/s/snowflake-security)
 - [https://looker.com/databases/snowflake](https://looker.com/databases/snowflake)
+- [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/)
