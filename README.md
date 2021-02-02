@@ -19,6 +19,7 @@
 - [Shared Nothing v.s. Shared Disk Architectures: An Independent View](http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architecture/)
 - [OLAP 核心知识点](https://mp.weixin.qq.com/s/QUTuk7Oc9-YXxCwtbBSYoA)
 - [李飞飞：云原生分布式数据库面临哪些机遇与挑战？](https://mp.weixin.qq.com/s/zHBUEWCpPOgz3pvLAu32BQ)
+- [一个PhD的论文笔记](https://github.com/hustnn/papers-notebook)
 
 ### 数据结构与算法
 
@@ -39,6 +40,7 @@
 - [如何实现Spark on Kubernetes？](https://developer.aliyun.com/article/774585)
 - [Spark内存管理详解](https://mp.weixin.qq.com/s/t4qO6HKOu3XaIgLGcTtLJw)
 - [京东Spark自研Remote Shuffle Service在大促中的应用实践](https://mp.weixin.qq.com/s/yELhZ1X-VG5YxR6ya32rAQ)
+- [探索Spark Tungsten的秘密](https://github.com/hustnn/TungstenSecret)
 
 ### hive
 
