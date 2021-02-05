@@ -61,6 +61,7 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [知乎专栏：Clickhouse最佳实战](https://www.zhihu.com/column/c_1267228880110850048)
 - [clickhouse分析：zookeeper数据存储](https://blog.csdn.net/iceyung/article/details/104060187)
 - [DorisDB VS ClickHouse 视频](https://www.bilibili.com/video/BV13v411s7sh?from=search&seid=1587356354978598948)
+- [云数据库ClickHouse资源隔离-弹性资源队列](https://developer.aliyun.com/article/780376?utm_content=g_1000223973)
 
 ## 云原生数仓
 
