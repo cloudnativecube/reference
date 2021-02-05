@@ -1,6 +1,7 @@
 # reference
 
 参考资料
+
 ## 编程语言
 
 ### C++
@@ -53,6 +54,7 @@
 
 ### clickhouse
 
+- [ClickHouse 使用指南](https://blog.alexanderliu.top/posts/clickhouse-user-guide.html)
 - [马殿军的源码分析](https://github.com/marsno1/notes/tree/master/ClickHouse)
 - [ClickHouse和他的朋友们](https://bohutang.me/archives/)
 - [ClickHouse
