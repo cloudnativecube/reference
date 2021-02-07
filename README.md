@@ -54,7 +54,7 @@
 
 ### clickhouse
 
-- [ClickHouse 使用指南](https://blog.alexanderliu.top/posts/clickhouse-user-guide.html)
+- [ClickHouse使用指南](https://blog.alexanderliu.top/posts/clickhouse-user-guide.html)
 - [马殿军的源码分析](https://github.com/marsno1/notes/tree/master/ClickHouse)
 - [ClickHouse和他的朋友们](https://bohutang.me/archives/)
 - [ClickHouse
@@ -63,8 +63,10 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [知乎专栏：Clickhouse最佳实战](https://www.zhihu.com/column/c_1267228880110850048)
 - [clickhouse分析：zookeeper数据存储](https://blog.csdn.net/iceyung/article/details/104060187)
 - [DorisDB VS ClickHouse 视频](https://www.bilibili.com/video/BV13v411s7sh?from=search&seid=1587356354978598948)
-- [云数据库ClickHouse资源隔离-弹性资源队列](https://developer.aliyun.com/article/780376?utm_content=g_1000223973)
 - [看云上ClickHouse如何做计算存储分离](https://mp.weixin.qq.com/s/EMOO2YhgjncebyMPl9azZw)
+- [云数据库ClickHouse资源隔离-弹性资源队列](https://developer.aliyun.com/article/780376?utm_content=g_1000223973)
+- [云数据库ClickHouse二级索引-最佳实践](https://developer.aliyun.com/article/781180?spm=a2c6h.12873581.0.dArticle781180.35a1802f9jXIdT)
+- [ClickHouse如何实现极致存储压缩率和查询性能？](https://mp.weixin.qq.com/s/UDps126LR5kMAxTk65ozOg)
 
 ## 云原生数仓
 
@@ -74,3 +76,4 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [snowflake-security](https://community.snowflake.com/s/snowflake-security)
 - [https://looker.com/databases/snowflake](https://looker.com/databases/snowflake)
 - [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/)
+- [市值700亿美金-云上数据仓库snowflake成功之道](https://developer.aliyun.com/live/245723?spm=a2c6h.12873639.0.0.464bfa8bRIMLYh)
