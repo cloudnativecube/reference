@@ -67,6 +67,7 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [云数据库ClickHouse资源隔离-弹性资源队列](https://developer.aliyun.com/article/780376?utm_content=g_1000223973)
 - [云数据库ClickHouse二级索引-最佳实践](https://developer.aliyun.com/article/781180?spm=a2c6h.12873581.0.dArticle781180.35a1802f9jXIdT)
 - [ClickHouse如何实现极致存储压缩率和查询性能？](https://mp.weixin.qq.com/s/UDps126LR5kMAxTk65ozOg)
+- [四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？](https://mp.weixin.qq.com/s/Wwu_SYcCwjen1je_iq6paw)
 
 ## 云原生数仓
 
@@ -77,3 +78,4 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [https://looker.com/databases/snowflake](https://looker.com/databases/snowflake)
 - [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/)
 - [市值700亿美金-云上数据仓库snowflake成功之道](https://developer.aliyun.com/live/245723?spm=a2c6h.12873639.0.0.464bfa8bRIMLYh)
+- [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741) 译文：[新一代数据仓库：Snowflake 弹性数仓介绍](https://mp.weixin.qq.com/s/BUPh8B0WA_bXQTsGoZjxOg)
