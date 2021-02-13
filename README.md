@@ -2,6 +2,9 @@
 
 参考资料
 
+## 工具
+- [git book](https://git-scm.com/book/zh/v2)
+
 ## 编程语言
 
 ### C++
