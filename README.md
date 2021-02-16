@@ -35,6 +35,7 @@
 
 - [数据库选型时必知的存储引擎基础](https://mp.weixin.qq.com/s/8KV-Iyyx9JiiTVJPV7gNug)
 - [掌握了LSM架构，你就掌握了90%的分布式数据库](https://github.com/cloudnativecube/reference/tree/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/)
 
 ### hadoop
 
