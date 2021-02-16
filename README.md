@@ -31,6 +31,11 @@
 - [LSM-Tree](https://cloud.tencent.com/developer/article/1441835)
 - [跳表](https://mp.weixin.qq.com/s?__biz=MzAxMzE4MDI0NQ==&mid=2650336541&idx=1&sn=641646d7ebb267f59fd2d39c9c143411&chksm=83aac127b4dd4831a6ed788675455e88975f5ac64813108e033d47c6fbe03f2090d171f21b00&scene=21#wechat_redirect)
 
+### 存储引擎
+
+- [数据库选型时必知的存储引擎基础](https://mp.weixin.qq.com/s/8KV-Iyyx9JiiTVJPV7gNug)
+- [掌握了LSM架构，你就掌握了90%的分布式数据库]()
+
 ### hadoop
 
 ### spark
