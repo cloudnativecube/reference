@@ -39,6 +39,9 @@
 
 ### hadoop
 
+### yarn
+- [让你彻底搞明白YARN资源分配](https://blog.csdn.net/ChinaPoison/article/details/111028535)
+
 ### spark
 
 - [B站视频-Spark从零到精通完整版](https://www.bilibili.com/video/BV1ui4y1V7Cf?p=63)
