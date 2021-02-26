@@ -91,3 +91,4 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/)
 - [市值700亿美金-云上数据仓库snowflake成功之道](https://developer.aliyun.com/live/245723?spm=a2c6h.12873639.0.0.464bfa8bRIMLYh)
 - [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741) 译文：[新一代数据仓库：Snowflake 弹性数仓介绍](https://mp.weixin.qq.com/s/BUPh8B0WA_bXQTsGoZjxOg)
+- [snowflake data load](https://docs.snowflake.com/en/user-guide/data-load-overview.html)
