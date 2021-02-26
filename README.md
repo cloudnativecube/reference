@@ -3,7 +3,11 @@
 参考资料
 
 ## 工具
+
 - [git book](https://git-scm.com/book/zh/v2)
+- [Tcpdump Examples](https://hackertarget.com/tcpdump-examples/)
+- [TCPDump Capture HTTP GET/POST requests
+](https://www.middlewareinventory.com/blog/tcpdump-capture-http-get-post-requests-apache-weblogic-websphere/#How_to_Filter_HTTP_User_Agents)
 
 ## 编程语言
 
