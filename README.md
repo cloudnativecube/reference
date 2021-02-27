@@ -29,6 +29,7 @@
 - [李飞飞：云原生分布式数据库面临哪些机遇与挑战？](https://mp.weixin.qq.com/s/zHBUEWCpPOgz3pvLAu32BQ)
 - [我们为什么放弃 MongoDB 和 MySQL，选择 TiDB](https://mp.weixin.qq.com/s/FuZZk_jnaipqA4-SMMvNLQ)：很好的关于技术选型的文章。
 - [一个PhD的论文笔记](https://github.com/hustnn/papers-notebook)
+- [开源关系型数据库架构](https://my.oschina.net/taogang/blog/4953500)
 
 ### 数据结构与算法
 
@@ -97,4 +98,4 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [从snowflake上市漫谈云数仓
 ](https://zhuanlan.zhihu.com/p/261389683)
 - [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741) 译文：[新一代数据仓库：Snowflake 弹性数仓介绍](https://mp.weixin.qq.com/s/BUPh8B0WA_bXQTsGoZjxOg)
-- [snowflake data load](https://docs.snowflake.com/en/user-guide/data-load-overview.html)
+- [snowflake官方文档：Data Loading](https://docs.snowflake.com/en/user-guide/data-load-overview.html)
