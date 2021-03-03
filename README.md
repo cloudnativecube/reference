@@ -65,6 +65,7 @@
 - [探索Spark Tungsten的秘密](https://github.com/hustnn/TungstenSecret)
 - [Spark性能优化指南——基础篇](https://mp.weixin.qq.com/s/lcCvp1s5BYKpGSO__SAfbA)
 - [Spark性能优化指南——高级篇](https://mp.weixin.qq.com/s/KIoE3ev7XgGGH05kjCX_zQ)
+- [Spark常见问题汇总](https://blog.csdn.net/peace1213/article/details/97942856)
 
 ### hive
 
