@@ -49,7 +49,7 @@
 
 ### spark
 
-- [B站视频-Spark从零到精通完整版](https://www.bilibili.com/video/BV1ui4y1V7Cf?p=63)
+- [B站视频-Spark从零到精通完整版](https://www.bilibili.com/video/BV1ui4y1V7Cf?p=63)：需要看的基础章节包括：概述、集群搭建、入门、深入RDD、RDD的分区、RDD的缓存、Spark原理（SparkSQL可以后续再看）
 - [spark知识点总结](https://zhuanlan.zhihu.com/p/71270044)
 - [马殿军的源码分析](https://github.com/marsno1/notes/tree/master/Spark/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 - [Spark源码阅读](https://masterwangzx.com/categories/#Spark)
@@ -61,7 +61,10 @@
 - [Spark内存管理详解](https://mp.weixin.qq.com/s/t4qO6HKOu3XaIgLGcTtLJw)
 - [京东Spark自研Remote Shuffle Service在大促中的应用实践](https://mp.weixin.qq.com/s/yELhZ1X-VG5YxR6ya32rAQ)
 - [降本增效利器！趣头条Spark Remote Shuffle Service最佳实践](https://mp.weixin.qq.com/s/KRD-czsKJHQsuyNXMriGWQ)
+- [Spark on K8S 在有赞的实践](https://mp.weixin.qq.com/s/dcymNAco7P4IzuXA4pHezg)
 - [探索Spark Tungsten的秘密](https://github.com/hustnn/TungstenSecret)
+- [Spark性能优化指南——基础篇](https://mp.weixin.qq.com/s/lcCvp1s5BYKpGSO__SAfbA)
+- [Spark性能优化指南——高级篇](https://mp.weixin.qq.com/s/KIoE3ev7XgGGH05kjCX_zQ)
 
 ### hive
 
