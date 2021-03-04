@@ -66,6 +66,9 @@
 - [Spark性能优化指南——基础篇](https://mp.weixin.qq.com/s/lcCvp1s5BYKpGSO__SAfbA)
 - [Spark性能优化指南——高级篇](https://mp.weixin.qq.com/s/KIoE3ev7XgGGH05kjCX_zQ)
 - [Spark常见问题汇总](https://blog.csdn.net/peace1213/article/details/97942856)
+- [The Internals Online Books](https://books.japila.pl/)
+  - [The Internals of Apache Spark](https://books.japila.pl/apache-spark-internals/overview/)
+  - [The Internals of Spark SQL](https://jaceklaskowski.github.io/mastering-spark-sql-book/spark-sql/)
 
 ### hive
 
