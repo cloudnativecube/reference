@@ -70,6 +70,13 @@
   - [The Internals of Apache Spark](https://books.japila.pl/apache-spark-internals/overview/)
   - [The Internals of Spark SQL](https://jaceklaskowski.github.io/mastering-spark-sql-book/spark-sql/)
 
+#### hive迁移spark
+
+- [Hive SQL迁移Spark SQL在滴滴的实践](https://mp.weixin.qq.com/s/yiqgPqM7nnNlJ1zCp6blTQ)
+- [SparkSQL 在有赞的实践](https://mp.weixin.qq.com/s/Gs67ZUjlpgmo5WednjJ3lQ)
+- [SparkSQL在有赞大数据的实践（二）](https://mp.weixin.qq.com/s/r9S93ZHWzQLPlN_ixqHAVQ)
+- [Spark 2.3 无缝升级到 3.0 在唯品会的实践](https://mp.weixin.qq.com/s/pf-MbjLeeVV2Ii7wNuRXIg)
+
 ### hive
 
 - [HIVE ALTER TABLE](https://understandingbigdata.com/hive-alter-table/)
