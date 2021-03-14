@@ -30,6 +30,7 @@
 - [我们为什么放弃 MongoDB 和 MySQL，选择 TiDB](https://mp.weixin.qq.com/s/FuZZk_jnaipqA4-SMMvNLQ)：很好的关于技术选型的文章。
 - [一个PhD的论文笔记](https://github.com/hustnn/papers-notebook)
 - [开源关系型数据库架构](https://my.oschina.net/taogang/blog/4953500)
+- [浅析分布式计算模型的发展变化](https://mp.weixin.qq.com/s/why798vQyRviSrDp75wLrg)
 
 ### 数据结构与算法
 
