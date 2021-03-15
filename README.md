@@ -80,7 +80,7 @@
 
 ### hive
 
-- [HIVE ALTER TABLE](https://understandingbigdata.com/hive-alter-table/)
+- [hive.md](https://github.com/cloudnativecube/reference/blob/master/hive.md)
 
 ### hbase
 
