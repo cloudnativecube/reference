@@ -84,6 +84,7 @@
 - [降本增效利器！趣头条Spark Remote Shuffle Service最佳实践](https://mp.weixin.qq.com/s/KRD-czsKJHQsuyNXMriGWQ)
 - [Magnet: A scalable and performant shuffle architecture for Apache Spark](https://engineering.linkedin.com/blog/2020/introducing-magnet)
 - [Cosco: An Efficient Facebook-Scale Shuffle Service](https://bestoreo.github.io/post/cosco/cosco/)
+- [Uber’s Highly Scalable and Distributed Shuffle as a Service](https://databricks.com/session_na20/zeus-ubers-highly-scalable-and-distributed-shuffle-as-a-service)
 - [github: uber rss](https://github.com/uber/RemoteShuffleService)
 - [github: linkedin magnet](https://github.com/linkedin/spark/tree/magnet-upstream)
 - [SPARK-31924: Create remote shuffle service reference implementation](https://issues.apache.org/jira/browse/SPARK-31924)
