@@ -70,6 +70,9 @@
 - [The Internals Online Books](https://books.japila.pl/)
   - [The Internals of Apache Spark](https://books.japila.pl/apache-spark-internals/overview/)
   - [The Internals of Spark SQL](https://jaceklaskowski.github.io/mastering-spark-sql-book/spark-sql/)
+- [waitingforcode系列](https://www.waitingforcode.com/apache-spark)
+  - [https://www.waitingforcode.com/apache-spark](https://www.waitingforcode.com/apache-spark)
+  - [https://www.waitingforcode.com/apache-spark-sql](https://www.waitingforcode.com/apache-spark-sql)
 
 #### hive迁移spark
 
