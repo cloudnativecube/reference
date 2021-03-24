@@ -91,6 +91,9 @@
 - [SPARK-25299: Use remote storage for persisting shuffle data](https://issues.apache.org/jira/browse/SPARK-25299)
 - [SPARK-30602: Support push-based shuffle to improve shuffle efficiency](https://issues.apache.org/jira/browse/SPARK-30602)
 
+#### 其他
+- [bucket join](https://databricks.com/session_na20/bucketing-2-0-improve-spark-sql-performance-by-removing-shuffle)
+
 ### hive
 
 - [hive.md](https://github.com/cloudnativecube/reference/blob/master/hive.md)
