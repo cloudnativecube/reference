@@ -46,7 +46,9 @@
 ### hadoop
 
 ### yarn
+
 - [让你彻底搞明白YARN资源分配](https://blog.csdn.net/ChinaPoison/article/details/111028535)
+- [不管开发Hive、Spark还是Flink，都必须会的YARN调度](https://mp.weixin.qq.com/s/zrjB0D4dDOT894S_hzLtjg)
 
 ### spark
 
