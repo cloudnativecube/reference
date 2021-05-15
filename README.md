@@ -49,10 +49,15 @@
 
 - [让你彻底搞明白YARN资源分配](https://blog.csdn.net/ChinaPoison/article/details/111028535)
 - [不管开发Hive、Spark还是Flink，都必须会的YARN调度](https://mp.weixin.qq.com/s/zrjB0D4dDOT894S_hzLtjg)
+- [不管开发Hive、Spark还是Flink，都必须会的YARN应用容错](https://mp.weixin.qq.com/s/jyebtW7tB9BrOJINaxpcDg)
 
 ### spark
 
 - [spark.md](https://github.com/cloudnativecube/reference/blob/master/spark.md)
+
+### flink
+
+- [Flink 社区 2021 最新最全学习渠道汇总](https://mp.weixin.qq.com/s/wkTIvA4Q7FSL6n2wb-yvgA)
 
 ### hive
 
