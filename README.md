@@ -14,6 +14,9 @@
 ### C++
 - [C++11新特性](http://c.biancheng.net/cplus/11/)
 
+### Java
+- [还在无脑用Thread开发多线程吗？偷偷告诉你，落后了17年](https://mp.weixin.qq.com/s/d__Txoeoft0k0vx6kfyc4Q)
+
 ## 操作系统与网络
 
 - [请你谈谈关于IO同步、异步、阻塞、非阻塞的区别](https://mp.weixin.qq.com/s/UEPXpQBJgSk08bg96wy96Q)
@@ -58,6 +61,8 @@
 ### flink
 
 - [Flink 社区 2021 最新最全学习渠道汇总](https://mp.weixin.qq.com/s/wkTIvA4Q7FSL6n2wb-yvgA)
+- [Flink 年度学习资料大礼包！](https://developer.aliyun.com/article/749911?spm=a2c6h.12873581.0.dArticle749911.14e83872cykOmX&groupCode=sc)
+- [看完这份知识图谱，才算搞懂 Flink！](https://developer.aliyun.com/article/744740?spm=a2c6h.14164896.0.0.1582a730KGkvuQ)
 
 ### hive
 
@@ -68,6 +73,13 @@
 ### clickhouse
 
 - [clickhouse.md](https://github.com/cloudnativecube/reference/blob/master/clickhouse.md)
+
+### pulsar
+- [假期充电包 | Apache Pulsar 从入门到实践](https://mp.weixin.qq.com/s/N7UZchlkkJLB6BsBuOny1g)
+
+### 数据湖
+- [漫说数据湖——如何建湖？如何做数据ETL？为什么大数据需要数据湖？](https://mp.weixin.qq.com/s/1TbRNsbskAwFNVm9YYVC_g)
+- [一文了解 Data Lakehouse 的演变](https://mp.weixin.qq.com/s/QKCiE3QHFNBdBoGLJ2wfnQ)
 
 ## 云原生数仓
 
@@ -82,3 +94,7 @@
 ](https://zhuanlan.zhihu.com/p/261389683)
 - [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/pdf/10.1145/2882903.2903741) 译文：[新一代数据仓库：Snowflake 弹性数仓介绍](https://mp.weixin.qq.com/s/BUPh8B0WA_bXQTsGoZjxOg)
 - [snowflake官方文档：Data Loading](https://docs.snowflake.com/en/user-guide/data-load-overview.html)
+- [Snowflake超越的不是AWS，而是SAAS](https://mp.weixin.qq.com/s/aG2xDXgQrREb6IIvg5Kz4g)
+- [被巴菲特看中的Snowflake，是怎样深刻改变云计算产业的？](https://mp.weixin.qq.com/s/eEepwg51C8gAQGWn6ndUqQ)
+- [成立8年估值200亿美元，中国版的Snowflake在哪里？](https://ifenxi.com/research/content/5614)
+- [年度公司 | 百家客户、300%增速、上千开发者，PingCAP想要拓展更赚钱的国际市场](https://mp.weixin.qq.com/s/OdMCOqJ_4-tpH-nLcU2hKA)
