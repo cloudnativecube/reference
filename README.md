@@ -15,7 +15,13 @@
 - [C++11新特性](http://c.biancheng.net/cplus/11/)
 
 ### Java
+- [Java教程-廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
+- [Java线程池，这篇能让你和面试官聊了半小时](https://mp.weixin.qq.com/s/Jy5Jtcw04ij_dgYMrWXUVg)
 - [还在无脑用Thread开发多线程吗？偷偷告诉你，落后了17年](https://mp.weixin.qq.com/s/d__Txoeoft0k0vx6kfyc4Q)
+- [40个Java多线程问题详解复习](https://mp.weixin.qq.com/s/afSsn0PtiPm1IoxLm2qAdA)
+- [居然90%的开发不懂Java日志！](https://mp.weixin.qq.com/s/609lmaQ25RXj_bAaYWdwiA)
+- [Java中9种常见的CMS GC问题分析与解决](https://mp.weixin.qq.com/s/RFwXYdzeRkTG5uaebVoLQw)
+- [Java 编程技巧之数据结构](https://mp.weixin.qq.com/s/tAANfEHINCw1B_A0NcLXvA)
 
 ## 操作系统与网络
 
@@ -63,6 +69,7 @@
 - [Flink 社区 2021 最新最全学习渠道汇总](https://mp.weixin.qq.com/s/wkTIvA4Q7FSL6n2wb-yvgA)
 - [Flink 年度学习资料大礼包！](https://developer.aliyun.com/article/749911?spm=a2c6h.12873581.0.dArticle749911.14e83872cykOmX&groupCode=sc)
 - [看完这份知识图谱，才算搞懂 Flink！](https://developer.aliyun.com/article/744740?spm=a2c6h.14164896.0.0.1582a730KGkvuQ)
+- [一个人走的快一些，一群人走的远一些](https://mp.weixin.qq.com/s/QkHo6jJyPNn7z4NsMLLGaQ)
 
 ### hive
 
@@ -75,6 +82,7 @@
 - [clickhouse.md](https://github.com/cloudnativecube/reference/blob/master/clickhouse.md)
 
 ### pulsar
+- [比拼 Kafka, 大数据分析新秀Pulsar到底好在哪](https://mp.weixin.qq.com/s/rEqaXPAkITBj8dgUbR7hUA)
 - [假期充电包 | Apache Pulsar 从入门到实践](https://mp.weixin.qq.com/s/N7UZchlkkJLB6BsBuOny1g)
 
 ### 数据湖
