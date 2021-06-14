@@ -77,6 +77,9 @@
 
 ### hbase
 
+- [20张图带你到HBase的世界遨游](https://www.cnblogs.com/sunsky303/p/14312350.html)
+- [贝壳基于Spark的HiveToHBase实践](https://mp.weixin.qq.com/s/pfeg25F_E3UrZJXJRXsfug)
+
 ### clickhouse
 
 - [clickhouse.md](https://github.com/cloudnativecube/reference/blob/master/clickhouse.md)
