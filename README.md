@@ -12,9 +12,11 @@
 ## 编程语言
 
 ### C++
+
 - [C++11新特性](http://c.biancheng.net/cplus/11/)
 
 ### Java
+
 - [Java教程-廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [Java线程池，这篇能让你和面试官聊了半小时](https://mp.weixin.qq.com/s/Jy5Jtcw04ij_dgYMrWXUVg)
 - [还在无脑用Thread开发多线程吗？偷偷告诉你，落后了17年](https://mp.weixin.qq.com/s/d__Txoeoft0k0vx6kfyc4Q)
@@ -27,6 +29,15 @@
 
 - [请你谈谈关于IO同步、异步、阻塞、非阻塞的区别](https://mp.weixin.qq.com/s/UEPXpQBJgSk08bg96wy96Q)
 - [I/O与Netty原理精讲](https://mp.weixin.qq.com/s/K9Oyn0cbwqVCh1j3N5bd_w)
+
+## web
+
+### 认证
+
+- [cookie 和 session 的关系看这一篇就够了](https://xie.infoq.cn/article/6d38afca552a70ba4049c59bd)
+- [互联网人必备知识 cookie 和 session 认证](https://xie.infoq.cn/article/600aad6690d7713f365563f58)
+- [JWT 认证看这一篇就够了](https://xie.infoq.cn/article/dd7d3f0d4519e4ff5a2f15dbc)
+- [深度解析 OAuth 2.0 授权！！](https://xie.infoq.cn/article/bf4f85061772019856a77cc1d)
 
 ## 大数据
 
