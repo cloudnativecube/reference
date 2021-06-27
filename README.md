@@ -77,6 +77,10 @@
 
 ### flink
 
+- [探究 flink1.11 Application 模式](https://zhuanlan.zhihu.com/p/160800648)
+- [Flink on YARN（上）：一张图轻松掌握基础架构与启动流程](https://mp.weixin.qq.com/s/l_CD_xhYx_U--85bj2K4lw)
+- [Flink on YARN（下）：常见问题与排查思路](https://mp.weixin.qq.com/s/umy1c6Sc4jP78jK8IRPjTg)
+- [深入解读 Flink 资源管理机制](https://mp.weixin.qq.com/s/9RHVaeDJGR0WTrEeBapcNw)
 - [Flink 社区 2021 最新最全学习渠道汇总](https://mp.weixin.qq.com/s/wkTIvA4Q7FSL6n2wb-yvgA)
 - [Flink 年度学习资料大礼包！](https://developer.aliyun.com/article/749911?spm=a2c6h.12873581.0.dArticle749911.14e83872cykOmX&groupCode=sc)
 - [看完这份知识图谱，才算搞懂 Flink！](https://developer.aliyun.com/article/744740?spm=a2c6h.14164896.0.0.1582a730KGkvuQ)
