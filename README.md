@@ -47,6 +47,7 @@
 - [Shared Nothing v.s. Shared Disk Architectures: An Independent View](http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architecture/)
 - [OLAP 核心知识点](https://mp.weixin.qq.com/s/QUTuk7Oc9-YXxCwtbBSYoA)
 - [李飞飞：云原生分布式数据库面临哪些机遇与挑战？](https://mp.weixin.qq.com/s/zHBUEWCpPOgz3pvLAu32BQ)
+- [大数据平台是否更应该容器化?](https://mp.weixin.qq.com/s/kKd8RT6uY8lXLq0nShAQxg)
 - [我们为什么放弃 MongoDB 和 MySQL，选择 TiDB](https://mp.weixin.qq.com/s/FuZZk_jnaipqA4-SMMvNLQ)：很好的关于技术选型的文章。
 - [一个PhD的论文笔记](https://github.com/hustnn/papers-notebook)
 - [开源关系型数据库架构](https://my.oschina.net/taogang/blog/4953500)
