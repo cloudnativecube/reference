@@ -28,7 +28,7 @@
 - [SparkSQL 在有赞的实践](https://mp.weixin.qq.com/s/Gs67ZUjlpgmo5WednjJ3lQ)
 - [SparkSQL在有赞大数据的实践（二）](https://mp.weixin.qq.com/s/r9S93ZHWzQLPlN_ixqHAVQ)
 - [Spark 2.3 无缝升级到 3.0 在唯品会的实践](https://mp.weixin.qq.com/s/pf-MbjLeeVV2Ii7wNuRXIg)
-- [https://mp.weixin.qq.com/s/_KWwb80dlkEtu1SeRK4jqw](https://mp.weixin.qq.com/s/_KWwb80dlkEtu1SeRK4jqw)
+- [Apache Spark 完全替代传统数仓的技术挑战及实践](https://mp.weixin.qq.com/s/_KWwb80dlkEtu1SeRK4jqw)
 
 #### Remote Shuffle Service
 
