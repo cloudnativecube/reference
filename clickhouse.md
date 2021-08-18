@@ -15,3 +15,4 @@ Query Execution Pipeline](https://presentations.clickhouse.tech/meetup24/5.%20Cl
 - [云数据库ClickHouse二级索引-最佳实践](https://developer.aliyun.com/article/781180?spm=a2c6h.12873581.0.dArticle781180.35a1802f9jXIdT)
 - [ClickHouse如何实现极致存储压缩率和查询性能？](https://mp.weixin.qq.com/s/UDps126LR5kMAxTk65ozOg)
 - [四两拨千斤：小巧新秀ClickHouse如何完美支撑史上最强双十一？](https://mp.weixin.qq.com/s/Wwu_SYcCwjen1je_iq6paw)
+- [ClickHouse要了解的骚气join操作](https://mp.weixin.qq.com/s/lHzROLGhfBvur7Ewm_qkpA)
